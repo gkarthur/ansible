@@ -1,6 +1,6 @@
 #!/bin/sh
 
-#sudo pip install ansible
+sudo pip install ansible
 
 # local config
 sudo mkdir /etc/ansible
