@@ -8,5 +8,5 @@
     with_items:
       - wget
       - unzip
-      - git
+      - curl
 
