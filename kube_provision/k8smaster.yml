@@ -1,0 +1,5 @@
+- hosts: k8smaster
+  roles:
+    - common
+    - k8server
+    - k8sui
